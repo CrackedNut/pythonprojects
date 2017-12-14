@@ -1,7 +1,7 @@
 . Add extractor of .mscx from .msxz file
 
-. Add rest identifier
+DONE! x Add rest identifier
 
-. Add duration identifier
+DONE! x Add duration identifier
 
-. Change basically the whole stupid structure to iterate all tags and their children and if is pitch/rest/duration take action and write to file.
+DONE! x Change basically the whole stupid structure to iterate all tags and their children and if is pitch/rest/duration take action and write to file.

@@ -1,0 +1,132 @@
+#define BPIN 7
+
+int tempo = 250;
+
+void melody() {
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 440, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 440, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 587, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 587, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 698, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 698, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 392, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 392, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 494, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 494, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 494, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 440, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 494, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 587, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 587, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 587, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 698, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 784, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 880, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 784, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 698, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 659, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 587, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 523, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	delay(2*tempo);
+	delay(4*tempo);
+	tone(BPIN, 293, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 440, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	delay(4*tempo);
+	tone(BPIN, 261, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 392, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	delay(4*tempo);
+	tone(BPIN, 293, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 440, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 261, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	tone(BPIN, 392, 1*tempo);
+	delay(1*tempo);
+	delay(1*tempo);
+	delay(4*tempo);
+}
+
+void setup() {
+
+}
+
+void loop() {
+  melody();
+}

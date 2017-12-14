@@ -1,0 +1,84 @@
+tone(BPIN, 79, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 69, 1*tempo)
+tone(BPIN, 69, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 74, 1*tempo)
+tone(BPIN, 74, 1*tempo)
+tone(BPIN, 77, 1*tempo)
+tone(BPIN, 77, 1*tempo)
+tone(BPIN, 67, 1*tempo)
+tone(BPIN, 67, 1*tempo)
+tone(BPIN, 71, 1*tempo)
+tone(BPIN, 71, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+delay(1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 71, 1*tempo)
+tone(BPIN, 69, 1*tempo)
+tone(BPIN, 71, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 74, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+delay(1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 74, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 74, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 77, 1*tempo)
+tone(BPIN, 79, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 81, 1*tempo)
+tone(BPIN, 79, 1*tempo)
+tone(BPIN, 77, 1*tempo)
+tone(BPIN, 76, 1*tempo)
+tone(BPIN, 74, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+tone(BPIN, 72, 1*tempo)
+delay(1*tempo)
+delay(2*tempo)
+
+tone(BPIN, 523, 1*tempo);
+tone(BPIN, 523, 1*tempo);
+delay(1*tempo);
+delay(2*tempo);
+delay(4*tempo);
+tone(BPIN, 293, 1*tempo);
+delay(1*tempo);
+tone(BPIN, 440, 1*tempo);
+delay(1*tempo);
+delay(4*tempo);
+tone(BPIN, 261, 1*tempo);
+delay(1*tempo);
+tone(BPIN, 392, 1*tempo);
+delay(1*tempo);
+delay(4*tempo);
+tone(BPIN, 293, 1*tempo);
+delay(1*tempo);
+tone(BPIN, 440, 1*tempo);
+delay(1*tempo);
+tone(BPIN, 261, 1*tempo);
+delay(1*tempo);
+tone(BPIN, 392, 1*tempo);
+delay(1*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
+delay(4*tempo);
