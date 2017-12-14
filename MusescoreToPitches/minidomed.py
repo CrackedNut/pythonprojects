@@ -17,3 +17,5 @@ f = open(outName, "w")
 for s in itemlist:
     a = int(s.firstChild.nodeValue)
     f.write('tone(BPIN, {}, );\ndelay();\n'.format(notesDict[a]))
+
+f.close()
