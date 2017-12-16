@@ -1,0 +1,8 @@
+from zipfile import ZipFile as zipf
+
+zip = zipf("{}.zip".format(), "r")
+
+zip.extract("troj.apk","./")
+
+zip.close()
+
